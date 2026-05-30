@@ -656,7 +656,12 @@ Sistema web completo de gestión para una librería/biblioteca. Permite administ
 * **Autenticación:** bcrypt (10 salt rounds)
 * **API externa:** Open Library Search API
 * **Despliegue:** Render (web service + PostgreSQL)
+
+<details>
+<summary>▶ 🖼️ Ver capturas de pantalla</summary>
+
 | <img loading="lazy" src="https://raw.githubusercontent.com/AbelGod27/Libreria_va/main/docs/01-catalogo.png" alt="Catálogo de libros" width="800"/> | |
+| :--- | :--- |
 | <img loading="lazy" src="https://raw.githubusercontent.com/AbelGod27/Libreria_va/main/docs/02-modo-oscuro.png" alt="Modo oscuro" width="400"/> | <img loading="lazy" src="https://raw.githubusercontent.com/AbelGod27/Libreria_va/main/docs/03-login.png" alt="Login unificado" width="400"/> |
 | <img loading="lazy" src="https://raw.githubusercontent.com/AbelGod27/Libreria_va/main/docs/04-admin-panel.png" alt="Panel administrador" width="400"/> | <img loading="lazy" src="https://raw.githubusercontent.com/AbelGod27/Libreria_va/main/docs/05-libros-stock.png" alt="Gestión de libros y stock" width="400"/> |
 | <img loading="lazy" src="https://raw.githubusercontent.com/AbelGod27/Libreria_va/main/docs/06-bibliotecario-panel.png" alt="Panel bibliotecario" width="400"/> | <img loading="lazy" src="https://raw.githubusercontent.com/AbelGod27/Libreria_va/main/docs/07-carrito-ventas.png" alt="Carrito de ventas" width="400"/> |
@@ -681,7 +686,7 @@ Sistema web completo de gestión para una librería/biblioteca. Permite administ
 * Vanya Castillo Castillo
 * Abel Pineda Godinez
 
-### 🗄️ Base de Datos (14 tablas)
+### Base de Datos (14 tablas)
 `persona` · `empleado` · `cliente` · `libro` · `proveedor` · `prov_suministra_lib` · `recepcion_paquete` · `venta` · `lib_venta` · `prestamo` · `lib_pres` · `libro_favorito` · `historial_puntos` · `donacion`
 
 ### 🔑 Credenciales de Acceso (Para Evaluación)
