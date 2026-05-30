@@ -217,6 +217,80 @@ El sistema está dividido en secciones interactivas que se actualizan de forma a
 Código Fuente: [Repositorio](https://github.com/aeiou520814-del/abc)
 Demo en Vivo: [Página Web](https://aeiou520814-del.github.io/abc/)
 
+# Proyecto 15: MANTRA — Red social de eventos
+
+MANTRA es una plataforma web tipo red social enfocada en la publicación, descubrimiento e interacción alrededor de eventos. El sistema permite que los usuarios se registren según su rol: asistidor u organizador. Los asistidores pueden descubrir eventos, confirmar asistencia, comentar, dejar reseñas, seguir organizadores, agregar amigos y usar chat. Los organizadores pueden publicar eventos con imágenes promocionales, administrar sus eventos y consultar métricas básicas.
+
+## 🛠️ Tecnologías implementadas
+
+**Backend:** Node.js con Express.js
+**Base de Datos:** PostgreSQL en Render
+**Frontend:** HTML, CSS y JavaScript 
+**Almacenamiento de imágenes:** Cloudinary
+**Despliegue:** Render
+**Control de versiones:** Git y GitHub
+
+## ✨ Funcionalidades principales
+
+* Registro e inicio de sesión de usuarios.
+* Manejo de roles: asistidor, organizador y owner.
+* Publicación de eventos por organizadores.
+* Subida de imágenes promocionales usando Cloudinary.
+* Feed de eventos para usuarios asistentes.
+* Confirmación de asistencia a eventos.
+* Sistema de reseñas y calificaciones.
+* Comentarios en eventos.
+* Seguimiento de organizadores.
+* Perfil de usuario con foto, biografía e intereses.
+* Comunidad tipo red social con publicaciones, imágenes y likes.
+* Solicitudes de amistad entre usuarios.
+* Notificaciones.
+* Logros de usuario.
+* Chat básico entre amigos.
+* Dashboard de organizador con métricas.
+* Persistencia de datos mediante PostgreSQL.
+* API REST para comunicación entre frontend y backend.
+
+
+## ✨ Iniciar sesion
+ Organizador: user5@example.com , contraseña: Julio121086
+ Usuario: milan.ewok@gmail.com, contraseña : Julio121086
+## 🖼️ Capturas de pantalla
+
+### Landing page
+
+<img src="./capturas/landing.png" alt="Landing page de MANTRA" loading="lazy" width="700">
+
+### Feed de eventos
+
+<img src="./capturas/feed-eventos.png" alt="Feed de eventos" loading="lazy" width="700">
+
+### Dashboard organizador
+
+<img src="./capturas/dashboard-organizador.png" alt="Dashboard del organizador" loading="lazy" width="700">
+
+### Comunidad
+
+<img src="./capturas/comunidad.png" alt="Comunidad MANTRA" loading="lazy" width="700">
+
+### Perfil de usuario
+
+<img src="./capturas/perfil.png" alt="Perfil de usuario" loading="lazy" width="700">
+
+### Chat
+
+<img src="./capturas/chat.png" alt="Chat entre usuarios" loading="lazy" width="700">
+
+## 🔗 Enlaces
+
+**Repositorio del proyecto:**
+https://github.com/JULIO-MILAN/mantra-backend
+
+**Demo en vivo:**
+https://mantra-backend-24g1.onrender.com/
+
+
+=======
 
 ---
 
@@ -477,13 +551,102 @@ Para ingresar al sistema con privilegios totales de administrador y evaluar el f
 🔗 Enlaces
 * **Código Fuente:** [Repositorio Notaría 105](https://github.com/s06008525-max/notaria-105)
 * **Demo en Vivo:** [notaria105](http://roberto.notario@notaria105.com)
-  
+
+---
+# Proyecto 11: Refaccionaria Leo 🚗
+
+## 👥 Equipo de Desarrollo
+* **Martinez Marin Nahum**
+* **Miranda Arredondo Miguel Angel**
+
+## 💡 ¿De qué trata este proyecto?
+Este proyecto consiste en un sitio web de comercio electrónico para una refaccionaria, diseñado para entornos de producción. Permite la gestión de usuarios, control de inventario y procesamiento de pedidos, ofreciendo una experiencia fluida tanto para el cliente como para el administrador.
+
+## ✨ Funcionalidades Principales
+* **Registro y Autenticación:** Sistema seguro de login para clientes y administradores.
+* **Gestión de Inventario:** Panel de control para agregar, editar y monitorear el stock de refacciones.
+* **Procesamiento de Pedidos:** Carrito de compras y pasarela de pagos integrada.
+* **Atención al Cliente:** Canales de contacto directo con la empresa.
+
+## 🛠️ Tecnologías Utilizadas
+* **Frontend:** HTML5, Tailwind CSS, JavaScript (Vanilla).
+* **Backend:** PHP (PDO).
+* **Base de Datos:** PostgreSQL.
+* **Infraestructura:** XAMPP (Local), Ngrok (Tunneling), GitHub Pages.
+
+<details>
+<summary>🖼️ Ver capturas de pantalla</summary>
+<img src="https://github.com/Nahum1802/Refaccionaria-Leo/blob/main/IMG/1.png" alt="Imagen principal de la Pagina" loading="lazy" width="500">
+<img src="https://github.com/Nahum1802/Refaccionaria-Leo/blob/main/IMG/2.png" alt="Contactanos" loading="lazy" width="500">
+<img src="https://github.com/Nahum1802/Refaccionaria-Leo/blob/main/IMG/3.png" alt="Productos" loading="lazy" width="500">
+<img src="https://github.com/Nahum1802/Refaccionaria-Leo/blob/main/IMG/4.png" alt="Ventana del administrador" loading="lazy" width="500">
+</details>
+
+## 🔗 Enlaces de Interés
+* [Repositorio en GitHub](https://github.com/Nahum1802/Refaccionaria-Leo)
+* [Sitio Web en Vivo](https://nahum1802.github.io/Refaccionaria-Leo/)
+
+## Proyecto 12: Distribuidora de Abarrotes Kafra
+
+Sistema integral para la gestión de inventario, ventas y distribuicion de abarrotes.
+
+### 🛠️ Tecnologías
+* **Backend:** Node.js y Express
+* **Base de Datos:** PostgreSQL 
+* **Frontend:** HTML, CSS y JavaScript
+* **Hosting del Frontend:** Github Pages
+* **Hosting de la base de datos y backend:** Render
+>>>>>>> profe/main
+
+<details>
+<summary>🖼️ Ver capturas de pantalla</summary>
+
+| | |
+|---|---|
+| <img loading="lazy" src="https://github.com/user-attachments/assets/4e5635a8-4fe3-4789-a8aa-ad3ef39d7300" alt="Pantalla de login" width="800"/> | |
+| <img loading="lazy" src="https://github.com/user-attachments/assets/9317424e-674d-4877-a1bd-7e6cb287e254" alt="Pantalla de inicio admin" width="800"/> | |
+| <img loading="lazy" src="https://github.com/user-attachments/assets/1d013572-cf13-4fa7-bd7a-c60fc9e334eb" alt="Detalles tabla trabajador" width="800"/> | |
+
+</details>
+
+---
+### 🔗 Enlaces
+* **Código Fuente:** [Repositorio en GitHub](https://github.com/DerekArenas/kafra-dashboard)
+* **Demo en Vivo (Github Pages):** [Pagina Distribuidora Kafra](https://derekarenas.github.io/kafra-dashboard/)
+
+<details>
+<summary>🖼️ Login para consulta</summary>
+User:
+consulta
+Password:
+rdBg2yGGGR
+</details>
+
+
+## Proyecto XII PAPIROSSO (papeleria)
+
+**Integrantes:** [Rodríguez Martínez José y Rosales Juarez Alexis]
+**GitHub:** https://github.com/jorvsk2007/jorvsk2007.github.io.git
+**LandingPage:** https://jorvsk2007.github.io/
+
+### Descripción del Proceso de Normalización
+Mediante nuestro proyecto buscamos implementar una automatizacion para cobros, registro de mercancias y clientes así como trabajadores mediante un portal web para agilizar el tiempo de una venta y reducir el consumo de papel y errores matemáticos.
+Con esto buscamos lograr que nuestra papeleria (papirosso) tenga un mejor control de su mercancia así como sus ventas y agregar la funcionalidad de que los clientes más frecuentes puedan acceder a una página exclusiva para realizar sus pedidos y recogerlos directo en la sucursal fisica.
+
+## Imagenes del proyecto 
+<img loading="lazy" src="https://github.com/jorvsk2007/jorvsk2007.github.io/blob/main/imagenesRepoGeneral/2026-05-29_18-44-20.png">
+<img loading="lazy" src="https://github.com/jorvsk2007/jorvsk2007.github.io/blob/main/imagenesRepoGeneral/2026-05-29_18-45-33.png">
+<img loading="lazy" src="https://github.com/jorvsk2007/jorvsk2007.github.io/blob/main/imagenesRepoGeneral/2026-05-29_18-45-48.png">
+<img loading="lazy" src="https://github.com/jorvsk2007/jorvsk2007.github.io/blob/main/imagenesRepoGeneral/2026-05-29_18-46-30.png">
+<img loading="lazy" src="https://github.com/jorvsk2007/jorvsk2007.github.io/blob/main/imagenesRepoGeneral/2026-05-29_18-46-42.png">
+<img loading="lazy" src="https://github.com/jorvsk2007/jorvsk2007.github.io/blob/main/imagenesRepoGeneral/2026-05-29_18-46-45.png">
+<img loading="lazy" src="https://github.com/jorvsk2007/jorvsk2007.github.io/blob/main/imagenesRepoGeneral/2026-05-29_18-46-48.png">
+<img loading="lazy" src="https://github.com/jorvsk2007/jorvsk2007.github.io/blob/main/imagenesRepoGeneral/2026-05-29_18-46-51.png">
+<img loading="lazy" src="https://github.com/jorvsk2007/jorvsk2007.github.io/blob/main/imagenesRepoGeneral/2026-05-29_18-46-54.png">
 
 
 ---
-
 ## Proyecto 396: ABV Library (Sistema de Gestión de Librería)
-
 Sistema web completo de gestión para una librería/biblioteca. Permite administrar libros, empleados, clientes, proveedores, ventas, préstamos y donaciones desde una interfaz moderna tipo marketplace con tres roles de acceso.
 
 ### 🛠️ Tecnologías
@@ -493,12 +656,6 @@ Sistema web completo de gestión para una librería/biblioteca. Permite administ
 * **Autenticación:** bcrypt (10 salt rounds)
 * **API externa:** Open Library Search API
 * **Despliegue:** Render (web service + PostgreSQL)
-
-<details>
-<summary>🖼️ Ver capturas de pantalla</summary>
-
-| | |
-|---|---|
 | <img loading="lazy" src="https://raw.githubusercontent.com/AbelGod27/Libreria_va/main/docs/01-catalogo.png" alt="Catálogo de libros" width="800"/> | |
 | <img loading="lazy" src="https://raw.githubusercontent.com/AbelGod27/Libreria_va/main/docs/02-modo-oscuro.png" alt="Modo oscuro" width="400"/> | <img loading="lazy" src="https://raw.githubusercontent.com/AbelGod27/Libreria_va/main/docs/03-login.png" alt="Login unificado" width="400"/> |
 | <img loading="lazy" src="https://raw.githubusercontent.com/AbelGod27/Libreria_va/main/docs/04-admin-panel.png" alt="Panel administrador" width="400"/> | <img loading="lazy" src="https://raw.githubusercontent.com/AbelGod27/Libreria_va/main/docs/05-libros-stock.png" alt="Gestión de libros y stock" width="400"/> |
@@ -537,3 +694,4 @@ Sistema web completo de gestión para una librería/biblioteca. Permite administ
 * **Código Fuente:** [Repositorio en GitHub](https://github.com/AbelGod27/Libreria_va)
 * **Demo en Vivo (GitHub Pages):** [ABV Library](https://abelgod27.github.io/abv_library/)
 * **Demo en Vivo (Render):** [ABV Library](https://libreria-va.onrender.com)
+>>>>>>> profe/main
