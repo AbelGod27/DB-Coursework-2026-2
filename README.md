@@ -482,7 +482,7 @@ Para ingresar al sistema con privilegios totales de administrador y evaluar el f
 
 ---
 
-## Proyecto 11: ABV Library (Sistema de Gestión de Librería)
+## Proyecto 396: ABV Library (Sistema de Gestión de Librería)
 
 Sistema web completo de gestión para una librería/biblioteca. Permite administrar libros, empleados, clientes, proveedores, ventas, préstamos y donaciones desde una interfaz moderna tipo marketplace con tres roles de acceso.
 
