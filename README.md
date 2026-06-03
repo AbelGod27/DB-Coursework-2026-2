@@ -552,7 +552,6 @@ Para ingresar al sistema con privilegios totales de administrador y evaluar el f
 * **Código Fuente:** [Repositorio Notaría 105](https://github.com/s06008525-max/notaria-105)
 * **Demo en Vivo:** [notaria105](http://roberto.notario@notaria105.com)
 
----
 # Proyecto 11: Refaccionaria Leo 🚗
 
 ## 👥 Equipo de Desarrollo
@@ -596,7 +595,6 @@ Sistema integral para la gestión de inventario, ventas y distribuicion de abarr
 * **Frontend:** HTML, CSS y JavaScript
 * **Hosting del Frontend:** Github Pages
 * **Hosting de la base de datos y backend:** Render
->>>>>>> profe/main
 
 <details>
 <summary>🖼️ Ver capturas de pantalla</summary>
@@ -609,7 +607,6 @@ Sistema integral para la gestión de inventario, ventas y distribuicion de abarr
 
 </details>
 
----
 ### 🔗 Enlaces
 * **Código Fuente:** [Repositorio en GitHub](https://github.com/DerekArenas/kafra-dashboard)
 * **Demo en Vivo (Github Pages):** [Pagina Distribuidora Kafra](https://derekarenas.github.io/kafra-dashboard/)
