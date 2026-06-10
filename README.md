@@ -1387,6 +1387,7 @@ Sistema web completo de gestión para una librería/biblioteca. Permite administ
 - **Despliegue:** Render (web service + PostgreSQL)
 
 <details>
+<<<<<<< HEAD
 <summary>🖼️ Ver capturas de pantalla</summary>
 
 <img loading="lazy" src="https://raw.githubusercontent.com/AbelGod27/Libreria_va/main/docs/01-catalogo.png" alt="Catálogo de libros" width="400"/>
@@ -1399,6 +1400,20 @@ Sistema web completo de gestión para una librería/biblioteca. Permite administ
 <img loading="lazy" src="https://raw.githubusercontent.com/AbelGod27/Libreria_va/main/docs/08-portal-cliente.png" alt="Portal del cliente" width="400"/>
 <img loading="lazy" src="https://raw.githubusercontent.com/AbelGod27/Libreria_va/main/docs/09-facturas.png" alt="Reporte de facturas" width="400"/>
 <img loading="lazy" src="https://raw.githubusercontent.com/AbelGod27/Libreria_va/main/docs/10-proveedores.png" alt="Recepción de paquetes" width="400"/>
+=======
+<summary>▶ 🖼️ Ver capturas de pantalla</summary>
+
+| <img loading="lazy" src="https://raw.githubusercontent.com/AbelGod27/Libreria_va/main/docs/01-catalogo.png" alt="Catálogo de libros" width="800"/> |
+| <img loading="lazy" src="https://raw.githubusercontent.com/AbelGod27/Libreria_va/main/docs/02-modo-oscuro.png" alt="Modo oscuro" width="400"/> |
+| <img loading="lazy" src="https://raw.githubusercontent.com/AbelGod27/Libreria_va/main/docs/03-login.png" alt="Login unificado" width="400"/> |
+| <img loading="lazy" src="https://raw.githubusercontent.com/AbelGod27/Libreria_va/main/docs/04-admin-panel.png" alt="Panel administrador" width="400"/> |
+| <img loading="lazy" src="https://raw.githubusercontent.com/AbelGod27/Libreria_va/main/docs/05-libros-stock.png" alt="Gestión de libros y stock" width="400"/> |
+| <img loading="lazy" src="https://raw.githubusercontent.com/AbelGod27/Libreria_va/main/docs/06-bibliotecario-panel.png" alt="Panel bibliotecario" width="400"/>  
+<img loading="lazy" src="https://raw.githubusercontent.com/AbelGod27/Libreria_va/main/docs/07-carrito-ventas.png" alt="Carrito de ventas" width="400"/> |
+| <img loading="lazy" src="https://raw.githubusercontent.com/AbelGod27/Libreria_va/main/docs/08-portal-cliente.png" alt="Portal del cliente" width="400"/> |
+| <img loading="lazy" src="https://raw.githubusercontent.com/AbelGod27/Libreria_va/main/docs/09-facturas.png" alt="Reporte de facturas" width="400"/> |
+| <img loading="lazy" src="https://raw.githubusercontent.com/AbelGod27/Libreria_va/main/docs/10-proveedores.png" alt="Recepción de paquetes" width="800"/> |
+>>>>>>> e2c5aed0d74edf961854c34a061242a50b57baa8
 
 </details>
 
@@ -1435,6 +1450,7 @@ Sistema web completo de gestión para una librería/biblioteca. Permite administ
 
 - **Código Fuente:** [Repositorio en GitHub](https://github.com/AbelGod27/Libreria_va)
 - **Demo en Vivo (GitHub Pages):** [ABV Library](https://abelgod27.github.io/abv_library/)
+<<<<<<< HEAD
 - **Demo en Vivo (Render):** [ABV Library](https://libreria-va.onrender.com)
 
 # La Casita - Mini Súper Web con Laravel
@@ -1981,3 +1997,6 @@ IMAGENES
 <img src="https://github.com/user-attachments/assets/288cf883-9485-49e2-8df8-5de2ba3c2fbd" alt="Imagen 2" width="800"/>
 
 <img src="https://github.com/user-attachments/assets/cf3d4ac4-8aa1-4345-84a8-298096fb80af" alt="Imagen 3" width="800"/>
+=======
+- **Demo en Vivo (Render):** [ABV Library](https://libreria-va.onrender.com)
+>>>>>>> e2c5aed0d74edf961854c34a061242a50b57baa8
